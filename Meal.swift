@@ -28,7 +28,8 @@ public class Meal {
         self.name = name
         self.photo = photo
         self.rating = rating
-
+ 
+        
     }
 
 }
